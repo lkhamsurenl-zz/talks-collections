@@ -10,4 +10,5 @@
 * [David Malan: Scalibility web development](https://www.youtube.com/watch?v=-W9F__D3oY4)
 * [Michael Fischer, Nancy Lynch, and Michael Paterson: Impossibility of Distributed Consensus with One Faulty Process](http://cs-www.cs.yale.edu/homes/arvind/cs425/doc/fischer.pdf)
 * [Derek Sivers, Why I don’t want stuff](https://sivers.org/gifts)
+* [Roy Frostig, Cameron Musco, and Christopher Musco: Principal Component Projection Without Principal Component Analysis](http://arxiv.org/pdf/1602.06872v1.pdf)
 
