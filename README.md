@@ -11,6 +11,7 @@
 * [Derek Sivers, Why I don’t want stuff](https://sivers.org/gifts)
 * [Michael Nielsen: Neural Networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 * [Paul Graham: Organic Startup Ideas](http://www.paulgraham.com/organic.html)
+* [Paul Graham: Six Principles for Making New Things](http://www.paulgraham.com/organic.html)
 
 #####Academic Papers
 * [Jeffrey Dean and Sanjay Ghemawat: MapReduce](http://research.google.com/archive/mapreduce.html)
