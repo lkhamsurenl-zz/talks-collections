@@ -17,3 +17,4 @@
 * [Jeffrey Dean and Sanjay Ghemawat: MapReduce](http://research.google.com/archive/mapreduce.html)
 * [Michael Fischer, Nancy Lynch, and Michael Paterson: Impossibility of Distributed Consensus with One Faulty Process](http://cs-www.cs.yale.edu/homes/arvind/cs425/doc/fischer.pdf)
 * [Roy Frostig, Cameron Musco, and Christopher Musco: Principal Component Projection Without Principal Component Analysis](http://arxiv.org/pdf/1602.06872v1.pdf)
+* [Armburst et al., Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
