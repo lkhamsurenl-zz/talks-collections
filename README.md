@@ -18,3 +18,4 @@
 * [Michael Fischer, Nancy Lynch, and Michael Paterson: Impossibility of Distributed Consensus with One Faulty Process](http://cs-www.cs.yale.edu/homes/arvind/cs425/doc/fischer.pdf)
 * [Roy Frostig, Cameron Musco, and Christopher Musco: Principal Component Projection Without Principal Component Analysis](http://arxiv.org/pdf/1602.06872v1.pdf)
 * [Armburst et al., Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
+* * [Daniel D. Sleator and Robert E. Tarjan: A Data Structure for Dynamic Trees](https://www.cs.cmu.edu/~sleator/papers/dynamic-trees.pdf)
