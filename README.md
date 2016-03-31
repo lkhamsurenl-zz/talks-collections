@@ -19,3 +19,4 @@
 * [Roy Frostig, Cameron Musco, and Christopher Musco: Principal Component Projection Without Principal Component Analysis](http://arxiv.org/pdf/1602.06872v1.pdf)
 * [Armburst et al., Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 * [Daniel D. Sleator and Robert E. Tarjan: A Data Structure for Dynamic Trees](https://www.cs.cmu.edu/~sleator/papers/dynamic-trees.pdf)
+* [Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun: Deep Residual Learning for Image Recognition](http://arxiv.org/pdf/1512.03385v1.pdf)
