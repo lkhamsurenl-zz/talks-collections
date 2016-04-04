@@ -11,6 +11,7 @@
 * <b>Derek Sivers</b>: [Why I don’t want stuff](https://sivers.org/gifts)
 * <b>Michael Nielsen</b>: [Neural Networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 * <b>Paul Graham</b>: [Organic Startup Ideas](http://www.paulgraham.com/organic.html)
+* <b>Christopher Olah</b>: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * <b>Paul Graham</b>: [Six Principles for Making New Things](http://www.paulgraham.com/newthings.html)
 
 ###Academic Papers
