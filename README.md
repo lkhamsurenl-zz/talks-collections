@@ -23,6 +23,7 @@
 * <b>Armburst et al.,</b> [Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 * <b>Daniel D. Sleator and Robert E. Tarjan</b>: [A Data Structure for Dynamic Trees](https://www.cs.cmu.edu/~sleator/papers/dynamic-trees.pdf)
 * <b>Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun</b>: [Deep Residual Learning for Image Recognition](http://arxiv.org/pdf/1512.03385v1.pdf)
+* <b>DeCandia et al.,</b> [Amazon Dynamo](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
 ###Repos
 * <b>NARKOZ</b>: [Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
