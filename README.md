@@ -14,6 +14,7 @@
 * <b>Christopher Olah</b>: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * <b>Paul Graham</b>: [Six Principles for Making New Things](http://www.paulgraham.com/newthings.html)
 * <b>Donald Knuth</b>: [Knuth versus Email](http://cs.stanford.edu/~uno/email.html)
+* <b>Onur Çelebi</b>: [How a Diode Changed My Life](http://onurcelebi.com/blog/how-a-diode-changed-my-life/)
 
 ###Academic Papers
 * <b>Jeffrey Dean and Sanjay Ghemawat</b>: [MapReduce](http://research.google.com/archive/mapreduce.html)
