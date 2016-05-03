@@ -17,6 +17,7 @@
 * <b>Onur Çelebi</b>: [How a Diode Changed My Life](http://onurcelebi.com/blog/how-a-diode-changed-my-life/)
 * <b>Umer Mansoor</b>: [Do Experienced Programmers Use Google Frequently?](http://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/)
 * <b>Greg Brockman</b>: [My path to OpenAI](https://blog.gregbrockman.com/my-path-to-openai)
+* <b>StackOverflow</b>: [Personalized Prediction](http://stackoverflow.com/users/prediction-data)
 
 ###Academic Papers
 * <b>Jeffrey Dean and Sanjay Ghemawat</b>: [MapReduce](http://research.google.com/archive/mapreduce.html)
