@@ -16,6 +16,7 @@
 * <b>Donald Knuth</b>: [Knuth versus Email](http://cs.stanford.edu/~uno/email.html)
 * <b>Onur Çelebi</b>: [How a Diode Changed My Life](http://onurcelebi.com/blog/how-a-diode-changed-my-life/)
 * <b>Umer Mansoor</b>: [Do Experienced Programmers Use Google Frequently?](http://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/)
+* <b>Greg</b>: [My path to OpenAI](https://blog.gregbrockman.com/my-path-to-openai)
 
 ###Academic Papers
 * <b>Jeffrey Dean and Sanjay Ghemawat</b>: [MapReduce](http://research.google.com/archive/mapreduce.html)
