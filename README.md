@@ -19,6 +19,7 @@
 * <b>Greg Brockman</b>: [My path to OpenAI](https://blog.gregbrockman.com/my-path-to-openai)
 * <b>StackOverflow</b>: [Personalized Prediction](http://stackoverflow.com/users/prediction-data)
 * <b>Max Olson</b>: [Steve Jobs on learning to run a company](https://futureblind.com/2013/02/27/steve-jobs-on-learning-to-run-a-company/)
+* <b>Tristan Harris</b>: [How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist](https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.2db4urhp8)
 
 ###Academic Papers
 * <b>Jeffrey Dean and Sanjay Ghemawat</b>: [MapReduce](http://research.google.com/archive/mapreduce.html)
